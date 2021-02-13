@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+<script data-ad-client="ca-pub-2304408094535339" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
